@@ -11,6 +11,6 @@ Estudiante Johana Katerine Triana Páez
 Ejercicio basado en ejemplos indicados en moodle.
 
 
-# Maestría en Humanidades Digitales
+Maestría en Humanidades Digitales
 
 # Universidad de Los Andes
