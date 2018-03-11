@@ -1,0 +1,27 @@
+//Referencias: https://processing.org/reference/
+
+
+void setup () {
+  size(600, 400);
+  background(84, 3, 114);
+
+
+}
+
+void draw () {
+
+  stroke(4, 255, 197);
+  fill(152, 197, 220);
+  rect(mouseX, 200, 300, 300);
+
+  fill(160, 210, 230);
+  ellipse(245, mouseY, 10, 240);
+
+  fill(255, 255, 255);
+  line(mouseX, mouseY, 70, 70);
+}
+
+void mouseClicked(){
+
+ clear();
+}
